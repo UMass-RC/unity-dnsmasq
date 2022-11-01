@@ -1,2 +1,2 @@
 # unity-dnsmasq
-DNSMasq configuration
+DNSMasq configuration from dns.unity.rc.umass.edu:/etc/
